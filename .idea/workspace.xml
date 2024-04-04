@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f254509-d833-4345-9752-8937909b0782" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLabs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/RectSolid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/SolidAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/MyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/CombSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/admin/Desktop/JavaLabs/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/admin/Desktop/JavaLabs/src/Main.java&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-temurin-21.0.2-3183f394aec4-22629b30" />
-      </set>
-    </attachedChunks>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
